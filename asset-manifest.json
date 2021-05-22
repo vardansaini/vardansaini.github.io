@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vardansaini/static/css/main.c4ccc5e1.chunk.css",
+    "main.js": "/vardansaini/static/js/main.f7870f49.chunk.js",
+    "main.js.map": "/vardansaini/static/js/main.f7870f49.chunk.js.map",
+    "runtime-main.js": "/vardansaini/static/js/runtime-main.6579530c.js",
+    "runtime-main.js.map": "/vardansaini/static/js/runtime-main.6579530c.js.map",
+    "static/js/2.6b315d65.chunk.js": "/vardansaini/static/js/2.6b315d65.chunk.js",
+    "static/js/2.6b315d65.chunk.js.map": "/vardansaini/static/js/2.6b315d65.chunk.js.map",
+    "index.html": "/vardansaini/index.html",
+    "static/css/main.c4ccc5e1.chunk.css.map": "/vardansaini/static/css/main.c4ccc5e1.chunk.css.map",
+    "static/js/2.6b315d65.chunk.js.LICENSE.txt": "/vardansaini/static/js/2.6b315d65.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/vardansaini/static/media/img-1.53f48437.jpg",
+    "static/media/HeroSection.css": "/vardansaini/static/media/mac.2f9c16d8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6579530c.js",
+    "static/js/2.6b315d65.chunk.js",
+    "static/css/main.c4ccc5e1.chunk.css",
+    "static/js/main.f7870f49.chunk.js"
+  ]
+}
