@@ -12,9 +12,9 @@ function HeroSection() {
                 {/*<Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>GET STARTED</Button>*/}
                 {/*<Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>Watch Trailer <i className='far fa-play-circle'/> </Button>*/}
                 </div>
-        <div className='check'>
+        {/*<div className='check'>
         <h1>Heading for the section</h1>
-    </div>
+    </div>*/}
             </div>
         
     )
