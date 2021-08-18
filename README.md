@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**vardansaini/vardansaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vardansaini/vardansaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on GAME MAKER
 - 🌱 I’m currently learning GAME AI
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vardan1@ualberta.ca | https://www.linkedin.com/in/vardan-saini-697225180
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Cars!
--->
+
