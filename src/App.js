@@ -6,22 +6,21 @@ import Home from './components/pages/Home'
 import Projects from './components/pages/Projects'
 import Publications from './components/pages/Publications'
 import About from './components/pages/About'
-import Cards from './components/Cards'
 
 function App() {
   return (
-    <>
+    <div className="App">
     <Router>
       <Navbar />
-    <Switch>
+      <Switch>
       <Route path="/" exact component={Home}/>
       <Route path="/projects" component={Projects}/>
-      <Route path="/publications" component={Publications}/>
       <Route path="/about" component={About}/>
+      <Route path="/publications" component={Publications}/>
     </Switch>
     </Router>
-      
-    </>
+    </div>
+    
   );
 }
 

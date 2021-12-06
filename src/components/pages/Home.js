@@ -1,13 +1,17 @@
 import React from 'react'
 import '../../App.css'
-import HeroSection from '../HeroSection'
+import ProfileSection from '../ProfileSection'
+import ProjectsSection from '../ProjectsSection'
+import PublicationSection from '../PublicationSection'
 import Cards from '../Cards'
 import Footer from '../Footer'
 
 function Home () {
     return(
         <>
-        <HeroSection />
+        <ProfileSection />
+        <ProjectsSection />
+        <PublicationSection />
         {/*<Cards />*/}
         <Footer />
         </>

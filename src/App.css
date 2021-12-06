@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', sans-serif;
+  
 }
 
 .home,
@@ -16,8 +17,13 @@
   font-size: 3rem;
 }
 
+.home {
+  background-color: #000
+}
+
 .projects {
-  background-image: url('../src/images/img-1.jpg');
+  background-image: url('../src/components/images/img-1.jpg');
+  
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,7 +32,7 @@
 }
 
 .publications {
-  background-image: url('../src/images/Geo.jpg');
+  background-image: url('../src/components/images/img-1.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -35,7 +41,7 @@
 }
 
 .about {
-  background-image: url('../src/images/Geo.jpg');
+  background-image: url('../src/components/images/img-1.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
