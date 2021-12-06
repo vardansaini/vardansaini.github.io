@@ -68,24 +68,16 @@ function Footer() {
                     </div>*/}
                     <small className='website-rights'>Vardan Saini © 2021</small>
                     <div className='social-icons'>
-                        <Link className='social-icon-link facebook'
-                        to="/"
-                        target="_blank"
-                        aria-label='facebook'>
-                            <i className='fab fa-facebook-f' />
-                        </Link>
-                        <Link className='social-icon-link youtube'
-                        to="/"
-                        target="_blank"
+                        <a className='social-icon-link youtube'
+                        href="https://www.youtube.com/channel/UC2BX8qSIUK_VeyeuOrTEcWw"
                         aria-label='youtube'>
                             <i className='fab fa-youtube' />
-                        </Link>
-                        <Link className='social-icon-link instagram'
-                        to="/"
-                        target="_blank"
-                        aria-label='instagram'>
-                            <i className='fab fa-instagram' />
-                        </Link>
+                        </a>
+                        <a className='social-icon-link twitter'
+                        href="https://twitter.com/vardan_saini"
+                        aria-label='twitter'>
+                            <i className='fab fa-twitter' />
+                        </a>
                     </div>
                 </div>
             </section>

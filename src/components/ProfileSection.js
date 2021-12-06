@@ -11,6 +11,7 @@ function ProfileSection() {
             </div> 
             <div className='hero-text'>
             <h1 style={{fontSize: 60}}>Software Developer</h1>
+            <h3 style={{fontSize: 20}}>Research Assistant AI LAB | UofA Computer Science</h3>
             <p style={{fontSize: 20}}> <a href="https://www.linkedin.com/in/vardan-saini-697225180/"
             style={{color: 'white'}}>
                 Linkedin</a> | <a href="https://github.com/vardansaini" style={{color: 'white'}}>
