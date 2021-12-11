@@ -12,17 +12,10 @@ function Home () {
         <>
         
         <ProfileSection />
-
-       
         <AboutSection />
-        
-        
-       
         <PublicationSection />
-
         <ProjectsSection />
         {/*<Cards />*/}
-        
         <Footer />
 
         </>
