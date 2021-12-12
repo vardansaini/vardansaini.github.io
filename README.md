@@ -8,7 +8,7 @@ My website:- https://vardansaini.github.io/vardansaini/
 
 [![Vardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vardansaini&count_private=true&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vardansaini&langs_count=10&theme=tokyonight&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vardansaini&langs_count=20&theme=tokyonight&layout=compact)]()
 
 
 - 🔭 I’m currently working on Mechanic Maker an advance AI tool (read more about it here https://ojs.aaai.org//index.php/AIIDE/article/view/7450)
