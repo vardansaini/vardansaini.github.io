@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vardansaini&langs_count=20&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on Mechanic Maker an advance AI tool (read more about it here https://ojs.aaai.org//index.php/AIIDE/article/view/7450)
+- 🔭 I’m currently working on Mechanic Maker an advance AI tool (learn more about it by reading my [Published Paper](https://ojs.aaai.org//index.php/AIIDE/article/view/7450))
 - 🌱 I’m currently learning GAME AI
 - 👯 I’m looking to collaborate on product-focused technical organization
 - 🤔 I’m looking for help with Reinforcement Learning
