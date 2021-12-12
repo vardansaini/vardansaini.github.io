@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 [My Portfolio](https://vardansaini.github.io/vardansaini/)
 
-[![Vardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vardansaini&count_private=true&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Vardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vardansaini&count_private=true&theme=tokyonight&showicons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vardansaini&langs_count=20&theme=tokyonight&layout=compact)]()
 
