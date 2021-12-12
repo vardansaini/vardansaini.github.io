@@ -6,6 +6,8 @@
 Here are some ideas to get you started: -->
 [Github Pages](https://vardansaini.github.io/vardansaini/)
 
+[Your GitHub Pages URL and adding preview to your README.md](/vardansaini.github.io/vardansaini.html)
+
 [![Vardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vardansaini&count_private=true&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vardansaini&langs_count=20&theme=tokyonight&layout=compact)]()
