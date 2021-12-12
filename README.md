@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started: -->
 My website:- https://vardansaini.github.io/vardansaini/
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vardansaini&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vardansaini&langs_count=8&theme=tokyonight)]()
+
+
 - 🔭 I’m currently working on Mechanic Maker an advance AI tool (read more about it here https://ojs.aaai.org//index.php/AIIDE/article/view/7450)
 - 🌱 I’m currently learning GAME AI
 - 👯 I’m looking to collaborate on product-focused technical organization
@@ -13,7 +19,3 @@ My website:- https://vardansaini.github.io/vardansaini/
 - 📫 How to reach me: vardan1@ualberta.ca | https://www.linkedin.com/in/vardan-saini-697225180
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Cars!
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vardansaini&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vardansaini&langs_count=8&theme=tokyonight)]()
