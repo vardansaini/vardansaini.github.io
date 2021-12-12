@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on product-focused technical organization
 - 🤔 I’m looking for help with Reinforcement Learning
 - 💬 Ask me about Front End in any FrameWork
-- 📫 How to reach me: vardan1@ualberta.ca | https://www.linkedin.com/in/vardan-saini-697225180
+- 📫 How to reach me: vardan1@ualberta.ca | [LinedIn](https://www.linkedin.com/in/vardan-saini-697225180)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Cars!
 
