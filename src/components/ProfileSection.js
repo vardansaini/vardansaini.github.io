@@ -10,12 +10,12 @@ function ProfileSection() {
             <div className='image-cropper'><img className='hero-image' src={VS} alt='Vardan Saini' />
             </div> 
             <div className='hero-text'>
-            <h1 style={{fontSize: 60}}>Software Developer</h1>
-            <h3 style={{fontSize: 20, paddingRight:70, paddingLeft:70, paddingTop:10}}>Research Assistant AI LAB | UofA Computer Science</h3>
-            <p style={{fontSize: 20}}> <a href="https://www.linkedin.com/in/vardan-saini-697225180/"
+            <h1>Software Developer</h1>
+            <h2 >Research Assistant AI LAB | UofA Computer Science</h2>
+            <h3 > <a href="https://www.linkedin.com/in/vardan-saini-697225180/"
             style={{color: 'white'}}>
                 Linkedin</a> | <a href="https://github.com/vardansaini" style={{color: 'white'}}>
-                Github</a></p>
+                Github</a></h3>
             </div>
             </div>       
            
