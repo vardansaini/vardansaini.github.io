@@ -78,6 +78,11 @@ function Footer() {
                         aria-label='twitter'>
                             <i className='fab fa-twitter' />
                         </a>
+                        <a className='social-icon-link twitter'
+                        href="mailto:vardan1@ualberta.ca"
+                        aria-label='email'>
+                            <i class="fas fa-envelope"></i>
+                        </a>
                     </div>
                 </div>
             </section>
