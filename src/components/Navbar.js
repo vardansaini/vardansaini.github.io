@@ -29,29 +29,40 @@ function Navbar() {
         <nav className="navbar">
             <div className="navbar-container">
                 <Link to="/vardansaini" className="navbar-logo" onClick={closeMobileMenu}>
-                    Vardan Saini {/*<i className="fab fa-typo3"/>*/}
+                
+                Vardan Saini {/*<i className="fab fa-typo3"/>*/}
+                        
                 </Link>
                 <div className='menu-icon' onClick={handleClick}>
                 <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
                     </div>
-                    {/*<ul className={click ? 'nav-menu active' : 'nav-menu'}>
-                        <li className='nav-item'>
-                        <Link to='/projects' className='nav-links' onClick={closeMobileMenu}>
-                            Projects
-                        </Link>
+                    <ul className={click ? 'nav-menu active' : 'nav-menu'}>
+                    <li className='nav-item'>
+                         <a href="#Profile" className='nav-links' onClick={closeMobileMenu}>
+                            Home
+                        </a>
+                        
                         </li>
                         <li className='nav-item'>
-                        <Link to='/publications' className='nav-links' onClick={closeMobileMenu}>
-                            Publications
-                        </Link>
-                        </li>
-                        <li className='nav-item'>
-                        <Link to='/about' className='nav-links' onClick={closeMobileMenu}>
+                         <a href="#About" className='nav-links' onClick={closeMobileMenu}>
                             About
-                        </Link>
+                        </a>
+                        
+                        </li>
+                        <li className='nav-item'>
+                       <a href="#Publications" className='nav-links' onClick={closeMobileMenu}>
+                            Publications
+                        </a>
+                        
+                        </li>
+                        <li className='nav-item'>
+                          <a href="#Projects" className='nav-links' onClick={closeMobileMenu}>
+                            Projects
+                        </a>
+                        
                         </li>
                         
-    </ul>*/}
+    </ul>
                     
                 </div>
                 </nav>

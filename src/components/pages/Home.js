@@ -10,11 +10,10 @@ import Footer from '../Footer'
 function Home () {
     return(
         <>
-        
-        <ProfileSection />
-        <AboutSection />
-        <PublicationSection />
-        <ProjectsSection />
+        <a name="Profile"><ProfileSection /></a>
+        <a name="About"><AboutSection /></a>
+        <a name="Publications"><PublicationSection /></a>
+        <a name="Projects"><ProjectsSection /></a>
         {/*<Cards />*/}
         <Footer />
 
