@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vardansaini/static/css/main.59f5356a.chunk.css",
+    "main.css": "/vardansaini/static/css/main.9c4feb17.chunk.css",
     "main.js": "/vardansaini/static/js/main.03e3dfa5.chunk.js",
     "main.js.map": "/vardansaini/static/js/main.03e3dfa5.chunk.js.map",
     "runtime-main.js": "/vardansaini/static/js/runtime-main.07837c04.js",
@@ -8,7 +8,7 @@
     "static/js/2.49846f45.chunk.js": "/vardansaini/static/js/2.49846f45.chunk.js",
     "static/js/2.49846f45.chunk.js.map": "/vardansaini/static/js/2.49846f45.chunk.js.map",
     "index.html": "/vardansaini/index.html",
-    "static/css/main.59f5356a.chunk.css.map": "/vardansaini/static/css/main.59f5356a.chunk.css.map",
+    "static/css/main.9c4feb17.chunk.css.map": "/vardansaini/static/css/main.9c4feb17.chunk.css.map",
     "static/js/2.49846f45.chunk.js.LICENSE.txt": "/vardansaini/static/js/2.49846f45.chunk.js.LICENSE.txt",
     "static/media/GM.96f8fb64.png": "/vardansaini/static/media/GM.96f8fb64.png",
     "static/media/VS_new.d1982f25.jpg": "/vardansaini/static/media/VS_new.d1982f25.jpg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.07837c04.js",
     "static/js/2.49846f45.chunk.js",
-    "static/css/main.59f5356a.chunk.css",
+    "static/css/main.9c4feb17.chunk.css",
     "static/js/main.03e3dfa5.chunk.js"
   ]
 }
