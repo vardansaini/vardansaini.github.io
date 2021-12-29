@@ -14,7 +14,7 @@ function Home () {
         <a name="About"><AboutSection /></a>
         <a name="Publications"><PublicationSection /></a>
         <a name="Projects"><ProjectsSection /></a>
-        {/*<Cards />*/}
+        
         <Footer />
 
         </>

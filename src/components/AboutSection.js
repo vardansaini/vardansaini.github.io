@@ -13,7 +13,8 @@ function AboutSection() {
             </div> */}
             <div className='hero-text-projects' >
             <h1 >About</h1>
-            <p style={{paddingRight:10, paddingLeft:10}}> I built my first Android app for my school in India at the age of 15. Since then, my interest in technology has only grown exponentially. 
+            <p style={{paddingRight:30, paddingLeft:30, textAlign:'center', fontWeight: 'bold',justifyContent: 'center',
+        alignItems: 'center', lineHeight: 3, wordSpacing: 5, marginLeft: 'auto',marginRight: 'auto'}}> I built my first Android app for my school in India at the age of 15. Since then, my interest in technology has only grown exponentially. 
                 Following my passion to build technical products as well as to help builders build technical products more easily, I started collaborating 
                 on a no-code platform for building games using AI. I’m looking for an opportunity to apply my learning at a product-focused technical 
                 organization.</p>

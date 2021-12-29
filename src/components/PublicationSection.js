@@ -3,6 +3,7 @@ import { Button } from './Button'
 import './HeroSection.css'
 import VS from './images/VS_new.jpg'
 import GM from './images/GM.png'
+import CardsBlack from './CardsBlack'
 
 function PublicationSection() {
     return (
@@ -13,11 +14,11 @@ function PublicationSection() {
             </div> */}
             <div className='hero-text' >
             <h1 >Publications</h1>
-            <p> <a href="https://ojs.aaai.org/index.php/AIIDE/article/view/7450/7349"
-            style={{color: 'white'}}>
-                A Demonstration of Mechanic Maker: An AI for Mechanics Co-Creation</a> | Published in one of AI's best conference</p>
+            <p> 
+               Click on the Card below to see the paper!</p>
             </div>
-            
+           
+            <CardsBlack/>
             </div>       
            
             

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-function CardItem(props) {
+function CardItemBlack(props) {
   return (
     <>
       <li className='cards__item'>
@@ -14,7 +14,7 @@ function CardItem(props) {
             />
           </figure>
           <div className='cards__item__info'>
-            <h5 className='cards__item__text'>{props.text}</h5>
+            <h5 className='cards__item__text__white'>{props.text}</h5>
           </div>
         </a>
       </li>
@@ -22,4 +22,4 @@ function CardItem(props) {
   );
 }
 
-export default CardItem;
+export default CardItemBlack;

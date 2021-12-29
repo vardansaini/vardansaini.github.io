@@ -5,41 +5,49 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Check out these EPIC Destinations!</h1>
+      <h1>Check out my awsome work so far!</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-9.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
+              src='images/GM.png'
+              text='AI based no-code platform for 2D game development | Built using Unity'
+              label='Research Project'
               path='/services'
             />
             <CardItem
-              src='images/geo.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
-              path='/services'
+              src='images/H-Log.jpg'
+              text='Android app which helps you track your habits and follow your friends habits.'
+              label='Android Project'
+              path="https://github.com/CMPUT301F21T20/HabitTracker.git"
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/geo.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path='/services'
+              src='images/Inclusify.png'
+              text='React based web app which makes sure that everyone feels included on social media.'
+              label='Hack The north WINNER'
+              path="https://github.com/Techno-cratz/Inclusify"
             />
             <CardItem
-              src='images/img-9.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
-              path='/products'
+              src='images/BP.png'
+              text='Everyone loves to save money and we made sure you do!'
+              label='Top 5 in hip,hack[array]'
+              path="https://github.com/Techno-cratz/BestPrice"
             />
             <CardItem
-              src='images/geo.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path='/sign-up'
+              src='images/flutter.png'
+              text='App for Android and ios made using flutter for people who need help'
+              label='Flutter Project'
+              path="https://github.com/vardansaini/med_assist"
+            />
+          </ul>
+          <ul className='cards__items'>
+            <CardItem
+             src='images/GH.png'
+             text='If you are interested in more projects like these check out my github | Source code for this website also availble there!'
+             label='Github'
+             path='https://github.com/vardansaini'
             />
           </ul>
         </div>
