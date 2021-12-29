@@ -21,10 +21,10 @@
 }
 
 .projects {
-    background-image: url('../src/components/images/img-1.jpg');
+    background-image: url('../src/components/images/Geo.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
-    font-size: 100px;
+    font-size: 60px;
 }

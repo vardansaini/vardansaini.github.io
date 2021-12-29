@@ -13,7 +13,7 @@ function Cards() {
               src='images/GM.png'
               text='AI based no-code platform for 2D game development | Built using Unity'
               label='Research Project'
-              path='/services'
+              path='/projects'
             />
             <CardItem
               src='images/H-Log.jpg'

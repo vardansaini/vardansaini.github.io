@@ -5,6 +5,7 @@ import './App.css';
 import Home from './components/pages/Home'
 import Projects from './components/pages/Projects'
 
+
 function App() {
   return (
     <div className="App">
@@ -12,7 +13,7 @@ function App() {
       <Navbar />
       <Switch>
       <Route path="/vardansaini" exact component={Home}/>
-      <Route path="/projects" component={Projects}/>
+      <Route path="/vardansaini/projects" component={Projects}/>
     </Switch>
     </Router>
     </div>
