@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 
 [![Vardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vardansaini&count_private=true&theme=tokyonight&showicons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vardansaini&langs_count=5&hide=makefile&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vardansaini&langs_count=5&hide=makefile,jupyternotebooks&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on Mechanic Maker an advance AI tool (learn more about it by reading my [Published Paper](https://ojs.aaai.org//index.php/AIIDE/article/view/7450))
