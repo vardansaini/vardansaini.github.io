@@ -19,4 +19,4 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Cars!
 
-[Previous Github Account](https://github.com/ComputerCreations?tab=overview&from=2021-12-01&to=2021-12-11)
+[Previous Github Account](https://github.com/vardan-saini)
